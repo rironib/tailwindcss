@@ -19,7 +19,7 @@ git clone https://github.com/rironib/tailwindcss.git
 
 <h3 align="center" style="color:#ff0000;">OR</h3>
 
-## Installation Process
+## Custom Installation Process
 
 1. Run
 
